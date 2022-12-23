@@ -17,3 +17,7 @@
 ```
 
 - I am not using any of the CSS Frameworks those contain the pre-built `styled css classes`. In this project I will be using pure `vanilla css`.
+
+## JavaScript
+
+- I used `Vanilla JavaScript` to add the dynamic time update with repect to the local time zone.
