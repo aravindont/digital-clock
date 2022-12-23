@@ -21,3 +21,9 @@
 ## JavaScript
 
 - I used `Vanilla JavaScript` to add the dynamic time update with repect to the local time zone.
+
+Output:
+
+![digital-clock](./digital-clock.png)
+
+[Live-Link](https://aravindont.github.io/digital-clock/) of the project
